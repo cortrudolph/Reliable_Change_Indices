@@ -11,4 +11,6 @@ Indices Include:
 
 To visualize the data, this script also plots histograms of RCIs and change scores and RCI confidence intervals (See examples).
 
+![RCI Histograms](/images/ryyHist.png)
+
 **A Primer on RCIs:** RCIs are statistics that suggest whether or not there is an appreciable change in an individual's score between two measurements that cannot be explained by measurement error.  There are many situations in which it is helpful to quantify who has changed over time (e.g., time-one to time-two differences, pre-post test/intervention scores).  Because RCIs address the question, "Who has really changed and by how much?," they are particularly useful for classification (e.g., degree of change).
